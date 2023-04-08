@@ -19,4 +19,4 @@
 All of the trained models were saved and mounted on Google Drive. Because of thier huge size, they can't be added to GitHub Repository.
 All models are thereby retained in Google Drive only. The link to the Models Folder is attached for reference.
 
-Link: ![Trained Models @ RANLP2023](https://drive.google.com/drive/folders/1TSfpkB0mc_mifnUwadhLUkO7LFEDRmdH?usp=share_link)
+Link: [Trained Models @ RANLP2023](https://drive.google.com/drive/folders/1TSfpkB0mc_mifnUwadhLUkO7LFEDRmdH?usp=share_link)
