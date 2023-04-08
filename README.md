@@ -31,4 +31,13 @@ The customised versions were created by freezing the basic layers and then layer
 
 In order to reproduce the results obtained you can clone this repository and place ur dataset path in the  train scripts to run the same.
 
+<hr>
+
 Our results for the Offensive Language Identification Task
+ 
+
+| Table: Results on Offensive Language Development Dataset | Table: Results on Offensive Language Test Dataset |
+| :--: | :--: |
+| <table><tr><th>Model Name</th><th>Accuracy</th></tr><tr><td>mBERT Cased</td><td>0.76</td></tr><tr><td>XLMR</td><td>0.76</td></tr><tr><td>IndicBERT</td><td>0.74</td></tr><tr><td>XLMR with NLL Loss and Class Weights</td><td>0.64</td></tr><tr><td>XLMR with Sadice Loss</td><td>0.61</td></tr><tr><td>mBERT with Sadice Loss</td><td>0.61</td></tr><tr><td>mBERT with NLL Loss and Class Weights</td><td>0.58</td></tr></table> | <table><tr><th>Model Name</th><th>Accuracy</th></tr><tr><td>mBERT Cased</td><td>0.75</td></tr><tr><td>XLMR</td><td>0.75</td></tr><tr><td>IndicBERT</td><td>0.73</td></tr><tr><td>XLMR with NLL Loss and Class Weights</td><td>0.64</td></tr><tr><td>XLMR with Sadice Loss</td><td>0.61</td></tr><tr><td>mBERT with Sadice Loss</td><td>0.61</td></tr><tr><td>mBERT with NLL Loss and Class Weights</td><td>0.59</td></tr></table> |
+
+
