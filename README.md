@@ -32,3 +32,33 @@ The customised versions were created by freezing the basic layers and then layer
 In order to reproduce the results obtained you can clone this repository and place ur dataset path in the  train scripts to run the same.
 
 Our results for the Offensive Language Identification Task
+
+> 
+
+| Table: Results on Offensive Language Development Dataset | Table: Results on Offensive Language Test Dataset |
+| :--: | :--: |
+| ![image](https://user-images.githubusercontent.com/72455881/230711003-bb4bb80f-0f47-4b6d-bedc-5005848a05e9.png) | ![image](https://user-images.githubusercontent.com/72455881/230711014-7e660873-8cae-4691-8e78-023a10882948.png) |
+
+<!--
+  | Model Name | Accuracy |
+  | :-- | :--: |
+  | mBERT Cased | 0.76 |
+  | XLMR | 0.76 |
+  | IndicBERT | 0.74 |
+  | XLMR With NLL Loss and Class Weights | 0.64 |
+  | XLMR With Sadice Loss | 0.61 |
+  | mBERT With Sadice Loss | 0.61 |
+  | mBERT With NLL Loss and Class Weights | 0.58 | 
+  
+  | Model Name | Accuracy |
+  | :-- | :--: |
+  | mBERT Cased | 0.75 |
+  | XLMR | 0.75 |
+  | IndicBERT | 0.73 |
+  | XLMR With NLL Loss and Class Weights | 0.64 |
+  | XLMR With Sadice Loss | 0.61 |
+  | mBERT With Sadice Loss | 0.61 |
+  | mBERT With NLL Loss and Class Weights | 0.59 | 
+  
+-->
+
